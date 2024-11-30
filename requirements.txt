@@ -1,0 +1,6 @@
+streamlit 
+
+nest_asyncio
+
+aiogram
+python-telegram-bot
